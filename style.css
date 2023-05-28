@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+#clock{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 25%;
+    height: 40vh;
+    font-size:155px;
+    margin-right: 20px;
+    margin-left: 230px;
+    color: rgb(166, 180, 177);
+    position: relative;
+}
+#img1{
+    width:100%;
+    background-image:cover;
+    height: 660px;
+   position:absolute; 
+}    
+.form{
+    border: 20px  rgb(19, 17, 17) solid;
+    margin-left: 370px;
+    margin-right: 340px;
+    background-color: rgb(75, 73, 73);
+    border-radius: 20px 20px 15px;
+    box-shadow: 5px ;
+    position: relative;
+      margin-top: 170px;
+}
+.stand1{
+    border:10px rgb(12, 12, 12) solid;
+    margin-left: 570px;
+    margin-right: 560px;
+    box-shadow: 10px 10px 20px;
+    position: relative;
+}
+.stand2{
+    border:10px rgb(17, 16, 16) solid;
+    margin-left: 460px;
+    margin-right: 440px;
+    border-radius:7px ;
+    box-shadow: 10px 20px 30px ;
+    position: relative;
+}
+
